@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./public/index.html",
   "homepage": "https://szymon-konieczny.github.io/checklist-react",
   "author": "Szymon Konieczny",
   "license": "MIT",
